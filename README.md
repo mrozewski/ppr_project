@@ -31,3 +31,10 @@ This shows that it boosted WRs overall, and boosted few RBs signifcantly.
 
 So, I thought that standard deviation would be a good measure to see whether team scores are more variable under ppr rules than not. This returned very large standard deviations, 
 so I will need to rethink my analysis here.
+
+Part of the reason scoring methods are significant is that they change draft strategy. Maybe a simple analysis would be to see how teams with 2 RBs and 3 WRs compete against teams 
+with 3 RBs and 2 WRs. And this would track with real world drafting, as teams draft a Flex as well, who can be WR or RB. 
+This way, we can compare teams that emphasize WRs over RBs and vice versa, without introducing draft logic. 
+
+
+
