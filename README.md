@@ -1,5 +1,6 @@
 # ppr_project
 Examining whether PPR scoring methods fairly balance WR scoring to RB, or if it unfairly overvalues players who record many receptions.
+Analysis and visualization done in Python.
 
 **Background**
 Fantasy football works by drafting teams, like portfolios of players. These players' game performances are translated into fantasy points mostly on yards gained and points scored.
